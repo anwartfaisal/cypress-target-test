@@ -1,0 +1,10 @@
+{
+  "comment": "// Sample test account data setup here in fixtures/file.json and we can pass the data in spec/test files",
+
+  "url": "https://test.com/application",
+
+  "admin": {
+    "userId": "admin",
+    "password": "password"
+  }
+}
