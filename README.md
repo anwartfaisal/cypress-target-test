@@ -12,8 +12,6 @@
 
 - clone the repo
 
-```
-
 $ git clone <<placeholder>>
 
 ```
